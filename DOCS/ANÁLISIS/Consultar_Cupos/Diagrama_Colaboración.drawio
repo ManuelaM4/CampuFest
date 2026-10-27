@@ -1,0 +1,49 @@
+<mxfile host="Electron">
+  <diagram name="Página-1" id="WL8q8XUdT9NggkwQDvxW">
+    <mxGraphModel dx="844" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QL2iWNFrw3Jn3C7iPQxy-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelPerimeter=1;" value="Estudiante&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="40" x="50" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="QL2iWNFrw3Jn3C7iPQxy-2" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=page;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="90" y="260" as="sourcePoint" />
+            <mxPoint x="150" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QL2iWNFrw3Jn3C7iPQxy-3" parent="1" style="shape=umlBoundary;whiteSpace=wrap;html=1;" value="PantallaEvento" vertex="1">
+          <mxGeometry height="80" width="110" x="160" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="QL2iWNFrw3Jn3C7iPQxy-6" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=page;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="270" y="259.5" as="sourcePoint" />
+            <mxPoint x="330" y="259.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QL2iWNFrw3Jn3C7iPQxy-7" parent="1" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" value="CalculoDisp&lt;div&gt;Cupos&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="334" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="QL2iWNFrw3Jn3C7iPQxy-9" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=page;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="414" y="240" as="sourcePoint" />
+            <mxPoint x="530" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QL2iWNFrw3Jn3C7iPQxy-10" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=page;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="414" y="280" as="sourcePoint" />
+            <mxPoint x="524" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QL2iWNFrw3Jn3C7iPQxy-11" parent="1" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" value="Evento" vertex="1">
+          <mxGeometry height="80" width="80" x="530" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="QL2iWNFrw3Jn3C7iPQxy-12" parent="1" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" value="Reserva" vertex="1">
+          <mxGeometry height="80" width="80" x="530" y="280" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
